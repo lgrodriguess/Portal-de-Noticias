@@ -43,7 +43,7 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
 * HTML, CSS, JavaScript
 * Frameworks front-end (React)
 * Integração com APIs de notícias
-* Firebase
+* Firebase, PHP
 * Figma
 
 ## 📂 Estrutura inicial do projeto
