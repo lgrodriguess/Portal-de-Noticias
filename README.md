@@ -80,6 +80,7 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
   * CSS modularizado e reaproveitável
   * Responsividade e clareza visual
   * Componentização no React
+  * Um arquivo CSS para cada arquivo .jsx
 
 * **Extensões obrigatórias no VS Code**:
 
