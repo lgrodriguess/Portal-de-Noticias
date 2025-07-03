@@ -23,7 +23,8 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
    ```bash
    git clone https://github.com/SeuUsuario/portal-noticias.git
    cd portal-noticias
-   ```
+   ````
+
 3. Crie uma branch para sua tarefa:
 
    ```bash
@@ -53,8 +54,72 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
 * `README.md`: este documento
 * Outras pastas serão definidas ao longo do desenvolvimento
 
+## 🧩 Padrões de Código
+
+* **Metodologia CSS**:
+  Utilizar o padrão **BEM** (Block Element Modifier) para nomeação de classes.
+
+* **Organização de pastas**:
+  Estrutura inicial recomendada: `components/`, `pages/`, `assets/`, `services/`, `styles/`, `utils/`.
+
+* **Padrão Mobile-First**:
+  O layout deve ser construído primeiro para dispositivos móveis e adaptado para telas maiores.
+
+* **Acessibilidade**:
+  Uso de boas práticas como:
+
+  * Contraste adequado de cores
+  * Texto legível
+  * Uso de `alt` em imagens
+  * Navegação por teclado
+  * Testes com ferramentas como WAVE
+
+* **Boas práticas de código**:
+
+  * HTML semântico
+  * CSS modularizado e reaproveitável
+  * Responsividade e clareza visual
+  * Componentização no React
+
+* **Extensões obrigatórias no VS Code**:
+
+  * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+* **Padrão de Git (Commits e Branches)**:
+
+  * Criar branch:
+
+    ```bash
+    git branch nome-da-branch
+    git checkout nome-da-branch
+    git checkout -b nome-da-branch # para criar e mudar de uma vez
+    ```
+  * Commit:
+
+    ```bash
+    git add .
+    git commit -m "mensagem clara do que foi feito"
+    ```
+  * Push e pull:
+
+    ```bash
+    git push origin nome-da-branch
+    git pull
+    ```
+  * Outras boas práticas:
+
+    * `git log` — histórico
+    * `git diff` — comparação de alterações
+    * `git reset` — remover do stage
+    * `git merge` — mesclar branches
+    * `git branch -d nome` — deletar branch local
+    * `git remote add origin <url>` — adicionar remoto
+    * `git remote -v` — ver remotos configurados
+
 ---
 
 > 🛠️ Este README está em construção e será atualizado conforme o projeto evoluir.
 
 ```
+
