@@ -118,6 +118,8 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
     * `git remote add origin <url>` — adicionar remoto
     * `git remote -v` — ver remotos configurados
 
+## Links 
+   * Códigos prontos: https://github.com/WebdevShefali/Web-Dev-Resources?tab=readme-ov-file#web-development-resources
 ---
 
 > 🛠️ Este README está em construção e será atualizado conforme o projeto evoluir.
