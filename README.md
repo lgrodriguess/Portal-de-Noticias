@@ -57,12 +57,37 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
 
 ---
 
-## 📂 Estrutura inicial do projeto
+## 📂 Estrutura do Projeto
 
-* `/src`: arquivos de código-fonte
-* `/public`: recursos públicos (imagens, ícones, etc.)
-* `README.md`: este documento
-* Outras pastas serão definidas ao longo do desenvolvimento
+### 🧱 Base Inicial
+- `/src`: arquivos de código-fonte
+- `/public`: recursos públicos (imagens, ícones, etc.)
+- `README.md`: este documento
+
+---
+
+### 🧭 Planejamento de Estrutura
+
+workspace/portal  
+│  
+├── public/                  # Arquivos públicos (ícones, imagens, favicon, etc.)  
+│   ├── images/  
+│   ├── icons/  
+│   └── index.html  
+│  
+├── src/  
+│   ├── assets/              # Fontes, imagens e recursos estáticos  
+│   ├── components/          # Componentes reutilizáveis React  
+│   ├── pages/               # Páginas da aplicação  
+│   ├── services/            # APIs, Firebase, etc.  
+│   ├── styles/              # Estilos  
+│   ├── utils/               # Funções utilitárias  
+│   ├── App.jsx              # Componente principal  
+│   ├── index.js             # Ponto de entrada  
+│   └── routes.jsx           # Configuração de rotas  
+│  
+├── .gitignore               # Arquivo para ignorar arquivos/pastas no Git (não é necessário se preocupar agora)  
+└── README.md                # Este documento
 
 ---
 
