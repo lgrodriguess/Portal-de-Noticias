@@ -176,6 +176,16 @@ workspace/portal
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Formata automaticamente seu código, mantendo uma padronização visual (espaços, quebras de linha, etc.).
 
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Autocompleta automaticamente caminhos de arquivos e diretórios ao importar imagens, componentes, estilos e outros arquivos.
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Renomeia automaticamente a tag de fechamento ao alterar a tag de abertura em arquivos HTML ou JSX.
+
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2): Destaca colchetes, chaves e parênteses com cores distintas, facilitando a leitura de blocos de código aninhados.
+
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Exibe informações avançadas de Git, como autores de linha, histórico de commits, comparações entre branches e muito mais diretamente no editor.
+
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Mostra erros e avisos inline, com destaque visual direto nas linhas afetadas, agilizando a identificação de problemas no código.
+
 ### 🌐 No navegador:
 
 - [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=pt-BR&utm_source=ext_sidebar): Simula visualizações de diferentes dispositivos ao mesmo tempo (celular, tablet, desktop), ideal para testar o layout responsivo.
