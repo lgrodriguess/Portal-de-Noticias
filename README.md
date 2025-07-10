@@ -210,4 +210,19 @@ workspace/portal
    * Códigos prontos: https://github.com/WebdevShefali/Web-Dev-Resources?tab=readme-ov-file#web-development-resources
 ---
 
+## 🎨 Padrão de Cores
+
+Este projeto utiliza as seguintes cores principais, conforme definido no arquivo [`cores.png`](https://github.com/Guilherme-ber/Portal-de-Noticias/blob/main/cores.png):
+
+| Código Hex | Cor Visual                                                                       |
+|------------|----------------------------------------------------------------------------------|
+| `#0A0A0A`  | ![#0A0A0A](https://via.placeholder.com/15/0A0A0A/000000?text=+) Preto            |
+| `#38332E`  | ![#38332E](https://via.placeholder.com/15/38332E/000000?text=+) Cinza escuro     |
+| `#FFFFFF`  | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) Branco           |
+| `#FF4000`  | ![#FF4000](https://via.placeholder.com/15/FF4000/000000?text=+) Laranja vibrante |
+| `#FDDD0D`  | ![#FDDD0D](https://via.placeholder.com/15/FDDD0D/000000?text=+) Amarelo forte    |
+
+
+---
+
 > 🛠️ Este README está em construção e será atualizado conforme o projeto evoluir.
