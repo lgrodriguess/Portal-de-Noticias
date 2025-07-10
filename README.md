@@ -124,14 +124,14 @@ workspace/portal
   * Criar branch:
 
     ```bash
-    git branch nome-da-branch
-    git checkout nome-da-branch
-    git checkout -b nome-da-branch # para criar e mudar de uma vez
+    git branch <branchName>
+    git checkout <branchName> # para mudar de branch
+    git checkout -b <branchName> # para criar e mudar de uma vez
     ```
   * Commit:
 
     ```bash
-    git add .
+    git add . (para adicionar todas as alterações) ou git add <path> (para uma única atualiação)
     git commit -m "mensagem clara do que foi feito"
     ```
   * Push e pull:
@@ -162,7 +162,7 @@ workspace/portal
 
 ### 🌐 No navegador:
 
-- [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=pt-BR&utm_source=ext_sidebar):Simula visualizações de diferentes dispositivos ao mesmo tempo (celular, tablet, desktop), ideal para testar o layout responsivo.
+- [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=pt-BR&utm_source=ext_sidebar): Simula visualizações de diferentes dispositivos ao mesmo tempo (celular, tablet, desktop), ideal para testar o layout responsivo.
 
 - [Material Icons for GitHub](https://chromewebstore.google.com/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc?hl=pt-BR&utm_source=ext_sidebar): Adiciona ícones visuais aos repositórios no GitHub, facilitando a navegação e identificação de arquivos e pastas.
 
