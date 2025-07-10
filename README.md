@@ -216,12 +216,11 @@ Este projeto utiliza as seguintes cores principais, conforme definido no arquivo
 
 | Código Hex | Cor Visual                                                                       |
 |------------|----------------------------------------------------------------------------------|
-| `#0A0A0A`  | ![#0A0A0A](https://via.placeholder.com/15/0A0A0A/000000?text=+) Preto            |
-| `#38332E`  | ![#38332E](https://via.placeholder.com/15/38332E/000000?text=+) Cinza escuro     |
-| `#FFFFFF`  | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) Branco           |
-| `#FF4000`  | ![#FF4000](https://via.placeholder.com/15/FF4000/000000?text=+) Laranja vibrante |
-| `#FDDD0D`  | ![#FDDD0D](https://via.placeholder.com/15/FDDD0D/000000?text=+) Amarelo forte    |
-
+| `#0A0A0A`  | ![#0A0A0A](https://placehold.co/15x15/0A0A0A/000000/png?text=+) Preto            |
+| `#38332E`  | ![#38332E](https://placehold.co/15x15/38332E/000000/png?text=+) Cinza escuro     |
+| `#FFFFFF`  | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/000000/png?text=+) Branco           |
+| `#FF4000`  | ![#FF4000](https://placehold.co/15x15/FF4000/000000/png?text=+) Laranja vibrante |
+| `#FDDD0D`  | ![#FDDD0D](https://placehold.co/15x15/FDDD0D/000000/png?text=+) Amarelo forte    |
 
 ---
 
