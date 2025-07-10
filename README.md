@@ -192,6 +192,8 @@ workspace/portal
 
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Mostra erros e avisos inline, com destaque visual direto nas linhas afetadas, agilizando a identificação de problemas no código.
 
+> Estas extensões são recomendadas para melhorar produtividade e experiência no desenvolvimento, mas não são obrigatórias.
+> 
 ---
 
 ### 🌐 **Extensões de navegador**
