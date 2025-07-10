@@ -175,6 +175,3 @@ workspace/portal
 ---
 
 > 🛠️ Este README está em construção e será atualizado conforme o projeto evoluir.
-
-```
-
