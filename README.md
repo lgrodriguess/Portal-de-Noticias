@@ -119,11 +119,6 @@ workspace/portal
   * Componentização no React
   * Um arquivo CSS para cada arquivo .jsx
 
-* **Extensões obrigatórias no VS Code**:
-
-  * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
 * **Padrão de Git (Commits e Branches)**:
 
   * Criar branch:
@@ -154,6 +149,22 @@ workspace/portal
     * `git branch -d nome` — deletar branch local
     * `git remote add origin <url>` — adicionar remoto
     * `git remote -v` — ver remotos configurados
+
+---
+
+## 🔌 Extensões recomendadas no VS Code e navegador
+
+### 🧠 No VS Code:
+
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Ajuda a manter o código limpo, identificando erros e padrões de má prática em JavaScript/React.
+
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Formata automaticamente seu código, mantendo uma padronização visual (espaços, quebras de linha, etc.).
+
+### 🌐 No navegador:
+
+- [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=pt-BR&utm_source=ext_sidebar):Simula visualizações de diferentes dispositivos ao mesmo tempo (celular, tablet, desktop), ideal para testar o layout responsivo.
+
+- [Material Icons for GitHub](https://chromewebstore.google.com/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc?hl=pt-BR&utm_source=ext_sidebar): Adiciona ícones visuais aos repositórios no GitHub, facilitando a navegação e identificação de arquivos e pastas.
 
 ---
 
