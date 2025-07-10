@@ -176,7 +176,7 @@ workspace/portal
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Formata automaticamente seu código, mantendo uma padronização visual (espaços, quebras de linha, etc.).
 
-> Estas extensões são essenciais para garantir qualidade, organização e padronização do código.
+> Estas extensões são OBRIGATÓRIAS e essenciais para garantir qualidade, organização e padronização do código.
 
 
 ### 🧩 **Opcionais (VS Code)**
@@ -191,7 +191,7 @@ workspace/portal
 
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Mostra erros e avisos inline, com destaque visual direto nas linhas afetadas, agilizando a identificação de problemas no código.
 
-> Estas extensões são recomendadas para melhorar produtividade e experiência no desenvolvimento, mas não são obrigatórias.
+> Estas extensões são recomendadas para melhorar produtividade e experiência no desenvolvimento, mas NÃO são obrigatórias.
 
 
 ### 🌐 **Extensões de navegador**
@@ -201,6 +201,8 @@ workspace/portal
 - [Material Icons for GitHub](https://chromewebstore.google.com/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc?hl=pt-BR&utm_source=ext_sidebar): Adiciona ícones visuais aos repositórios no GitHub, facilitando a navegação e identificação de arquivos e pastas.
 
 - [Retire.js](https://chromewebstore.google.com/detail/retirejs/djkbihbnjhkjdocoafobidefhephglfd): Detecta bibliotecas JavaScript desatualizadas ou vulneráveis no código de páginas web. Útil para análise e segurança durante o desenvolvimento.
+
+> Estas extensões de navegador são OPCIONAIS e visam facilitar testes e análises durante o desenvolvimento.
 
 ---
 
