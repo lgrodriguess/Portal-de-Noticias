@@ -170,11 +170,17 @@ workspace/portal
 
 ## 🔌 Extensões recomendadas no VS Code e navegador
 
-### 🧠 No VS Code:
+### ✅ **Obrigatórias (VS Code)**
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Ajuda a manter o código limpo, identificando erros e padrões de má prática em JavaScript/React.
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Formata automaticamente seu código, mantendo uma padronização visual (espaços, quebras de linha, etc.).
+
+> Estas extensões são essenciais para garantir qualidade, organização e padronização do código.
+
+
+
+### 🧩 **Opcionais (VS Code)**
 
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Autocompleta automaticamente caminhos de arquivos e diretórios ao importar imagens, componentes, estilos e outros arquivos.
 
@@ -186,7 +192,9 @@ workspace/portal
 
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Mostra erros e avisos inline, com destaque visual direto nas linhas afetadas, agilizando a identificação de problemas no código.
 
-### 🌐 No navegador:
+---
+
+### 🌐 **Extensões de navegador**
 
 - [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=pt-BR&utm_source=ext_sidebar): Simula visualizações de diferentes dispositivos ao mesmo tempo (celular, tablet, desktop), ideal para testar o layout responsivo.
 
