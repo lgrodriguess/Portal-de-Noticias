@@ -1,17 +1,22 @@
 # 📰 Portal de Notícias
 
-Este é um projeto colaborativo de um portal de notícias online. A proposta é criar uma plataforma moderna, responsiva e funcional onde usuários possam acessar conteúdos atualizados sobre diversos temas. Nosso foco é a cidade de Rio Pomba.
-
 ![HTML](https://img.shields.io/badge/language-HTML-orange?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/language-CSS-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow?style=for-the-badge)
 ![React](https://img.shields.io/badge/framework-React-61DAFB?style=for-the-badge)
+![IDE](https://img.shields.io/badge/IDE-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Platform](https://img.shields.io/badge/platform-Web-brightgreen?style=for-the-badge)
 ![Build](https://img.shields.io/badge/build-Vite-646CFF?style=for-the-badge)
 
 ---
 
-## 📌 Objetivos iniciais
+## 📌 Visão Geral
+
+Este é um projeto colaborativo de um portal de notícias online. A proposta é criar uma plataforma moderna, responsiva e funcional onde usuários possam acessar conteúdos atualizados sobre diversos temas. Nosso foco é a cidade de Rio Pomba.
+
+---
+
+## 🎯 Objetivos iniciais
 
 - Criar um site de fácil navegação e leitura.
 - Aplicar práticas de desenvolvimento ágil com Git e GitHub.
