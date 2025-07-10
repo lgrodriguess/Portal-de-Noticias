@@ -24,26 +24,25 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
 
 ## 🚀 Primeiros passos para colaboradores
 
-1. Aceite o convite para colaborar.
-2. Clone o repositório:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/SeuUsuario/portal-noticias.git
    cd portal-noticias
    ````
 
-3. Crie uma branch para sua tarefa:
+2. Crie uma branch para sua tarefa:
 
    ```bash
    git checkout -b nome-da-branch
    ```
-4. Faça alterações, commit e push:
+3. Faça alterações, commit e push:
 
    ```bash
    git add .
    git commit -m "descrição da alteração"
    git push origin nome-da-branch
    ```
-5. Abra um **Pull Request** no GitHub para revisão.
+4. Abra um **Pull Request** no GitHub para revisão e aguarde **aprovação**.
 
 ---
 
