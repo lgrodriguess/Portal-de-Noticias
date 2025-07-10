@@ -119,36 +119,41 @@ workspace/portal
   * Componentização no React
   * Um arquivo CSS para cada arquivo .jsx
 
-* **Padrão de Git (Commits e Branches)**:
+---
 
-  * Criar branch:
+## 📘 Padrão de Git (Commits e Branches)
 
-    ```bash
-    git branch <branchName>
-    git checkout <branchName> # para mudar de branch
-    git checkout -b <branchName> # para criar e mudar de uma vez
-    ```
-  * Commit:
+- **Criar branch**:
 
-    ```bash
-    git add . (para adicionar todas as alterações) ou git add <path> (para uma única atualiação)
-    git commit -m "mensagem clara do que foi feito"
-    ```
-  * Push e pull:
+  ```bash
+  git branch nome-da-branch
+  git checkout nome-da-branch
+  git checkout -b nome-da-branch # para criar e mudar de uma vez
+  ```
 
-    ```bash
-    git push origin nome-da-branch
-    git pull
-    ```
-  * Outras boas práticas:
+- **Commit**:
 
-    * `git log` — histórico
-    * `git diff` — comparação de alterações
-    * `git reset` — remover do stage
-    * `git merge` — mesclar branches
-    * `git branch -d nome` — deletar branch local
-    * `git remote add origin <url>` — adicionar remoto
-    * `git remote -v` — ver remotos configurados
+  ```bash
+  git add .
+  git commit -m "mensagem clara do que foi feito"
+  ```
+
+- **Push e pull**:
+
+  ```bash
+  git push origin nome-da-branch
+  git pull
+  ```
+
+- **Outras boas práticas**:
+
+  - `git log` — histórico  
+  - `git diff` — comparação de alterações  
+  - `git reset` — remover do stage  
+  - `git merge` — mesclar branches  
+  - `git branch -d nome` — deletar branch local  
+  - `git remote add origin <url>` — adicionar remoto  
+  - `git remote -v` — ver remotos configurados
 
 ---
 
@@ -170,7 +175,7 @@ workspace/portal
 
 ---
 
-## Links 
+## 🔗 Links úteis 
    * Códigos prontos: https://github.com/WebdevShefali/Web-Dev-Resources?tab=readme-ov-file#web-development-resources
 ---
 
