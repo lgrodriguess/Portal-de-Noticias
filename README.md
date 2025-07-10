@@ -2,6 +2,8 @@
 
 Este é um projeto colaborativo de um portal de notícias online. A proposta é criar uma plataforma moderna, responsiva e funcional onde usuários possam acessar conteúdos atualizados sobre diversos temas. Nosso foco é a cidade de Rio Pomba.
 
+---
+
 ## 📌 Objetivos iniciais
 
 - Criar um site de fácil navegação e leitura.
@@ -9,12 +11,16 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
 - Trabalhar com versionamento organizado (branches, PRs, revisões).
 - Envolver time multidisciplinar (dev, design, financeiro).
 
+---
+
 ## 👥 Equipe
 
 - PO (Product Owner): Guilherme Bernardino Reis
 - Devs: Andrei, Guilherme, Isaque, João, João Matheus, Plínio, Richard, Vinícius
 - Designers: Andrei, Guilherme, Luan, Richard, Vinícius
 - Financeiro: Andrei, Henrique, José Márcio
+
+---
 
 ## 🚀 Primeiros passos para colaboradores
 
@@ -39,6 +45,8 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
    ```
 5. Abra um **Pull Request** no GitHub para revisão.
 
+---
+
 ## ✅ Tecnologias previstas
 
 * HTML, CSS, JavaScript
@@ -47,12 +55,16 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
 * Firebase, PHP
 * Figma
 
+---
+
 ## 📂 Estrutura inicial do projeto
 
 * `/src`: arquivos de código-fonte
 * `/public`: recursos públicos (imagens, ícones, etc.)
 * `README.md`: este documento
 * Outras pastas serão definidas ao longo do desenvolvimento
+
+---
 
 ## 🧩 Padrões de Código
 
@@ -117,6 +129,8 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
     * `git branch -d nome` — deletar branch local
     * `git remote add origin <url>` — adicionar remoto
     * `git remote -v` — ver remotos configurados
+
+---
 
 ## Links 
    * Códigos prontos: https://github.com/WebdevShefali/Web-Dev-Resources?tab=readme-ov-file#web-development-resources
