@@ -28,7 +28,7 @@ Este é um projeto colaborativo de um portal de notícias online. A proposta é 
 ## 👥 Equipe
 
 - Product Owner (PO): Guilherme Bernardino Reis
-- Devs: Andrei, Guilherme, Isaque, João, João Matheus, Richard, **Vinícius**  (Lead Developer).
+- Devs: Andrei, Guilherme, João Matheus, Richard, **Vinícius**  (Lead Developer).
 - Designers: Andrei, Guilherme, **Luan** (Lead Design), Richard, Vinícius.
 - Financeiro: **Andrei** (Lead Design), Henrique, José Márcio.
 
